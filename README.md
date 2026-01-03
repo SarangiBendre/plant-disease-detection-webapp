@@ -1,10 +1,3 @@
-Got it 👍
-Here is a **READY-TO-PASTE `README.md`**.
-You can **copy everything below and paste directly into GitHub** without changing anything.
-
----
-
-```markdown
 # 🌿 Plant Disease Detection Web Application
 
 A deep learning–based web application that detects plant diseases from leaf images using a Convolutional Neural Network (CNN). Users can upload a plant leaf image through a web interface and receive the predicted disease along with a confidence score.
