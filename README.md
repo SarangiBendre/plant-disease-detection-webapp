@@ -144,15 +144,3 @@ B.Tech – Artificial Intelligence & Machine Learning
 * TensorFlow and Flask Documentation
 * Render Cloud Platform
 
-```
-
----
-
-✅ This README is **professional, clean, and internship-ready**.  
-If you want, I can now help you write:
-- Resume project points  
-- LinkedIn post  
-- Final project report PDF  
-
-Just tell me 👍
-```
