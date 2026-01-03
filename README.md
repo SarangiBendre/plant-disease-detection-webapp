@@ -5,7 +5,7 @@ A deep learning–based web application that detects plant diseases from leaf im
 ---
 
 ## 🚀 Live Demo
-🔗 https://plant-disease-detection-webapp-1i17.onrender.com
+🔗 https://plant-disease-detection-webapp-11i7.onrender.com
 
 > Note: On the free hosting tier, the first request may take a few seconds to load.
 
